@@ -40,7 +40,7 @@ fruits.shift();
 console.log(fruits);
 
 //Adds element at last of the array 
-fruits.push('two Cherry');
+fruits.push('Cherry');
 console.log(fruits);
 
 //Adds first element for the array 
